@@ -1,4 +1,4 @@
-<h3 align="center">A AI/ML Researcher from India</h3>
+<h3 align="center">AI/ML Researcher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codegod-028&label=Profile%20views&color=0e75b6&style=flat" alt="codegod-028" /> </p>
 
