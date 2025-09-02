@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Connect with me on https://www.linkedin.com/in/amitabh-ranjan-346255217/**
 
-- ⚡ Fun fact **Daily Assess Yourself**
+- ⚡ Fun fact **DAY- Daily Assess Yourself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
